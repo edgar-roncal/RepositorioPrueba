@@ -11806,11 +11806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ejemplo\\Ejemplo1\\Ejemplo1\\Ejemplo1.csproj",
+      "projectUniqueName": "D:\\Ejemplo\\Repositorio4\\Ejemplo1\\Ejemplo1\\Ejemplo1.csproj",
       "projectName": "Ejemplo1",
-      "projectPath": "D:\\Ejemplo\\Ejemplo1\\Ejemplo1\\Ejemplo1.csproj",
+      "projectPath": "D:\\Ejemplo\\Repositorio4\\Ejemplo1\\Ejemplo1\\Ejemplo1.csproj",
       "packagesPath": "C:\\Users\\EDGAR\\.nuget\\packages\\",
-      "outputPath": "D:\\Ejemplo\\Ejemplo1\\Ejemplo1\\obj\\",
+      "outputPath": "D:\\Ejemplo\\Repositorio4\\Ejemplo1\\Ejemplo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
